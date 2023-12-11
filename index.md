@@ -6,6 +6,6 @@ Project Part 1 HTML file: [Project part1_html](Project_Part_1_Bengisu_Mustafa_Fe
 
 Project Part 1 ipynb file: [Project part1_ipynb](Project_Part_1_Bengisu_Mustafa_Fethi.ipynb)
 
-Project Part 2 HTML file: [Project part2_html](fethi-bengisu-mustafa_423part2.html)
+Project Part 2 HTML file: [Project part2_html](IE423_PROJECT_PART2_Bengisu_Mustafa_Fethi (1).html)
 
-Project Part 2 ipynb file: [Project part2_ipynb](fethi-bengisu-mustafa_423part2.ipynb)
+Project Part 2 ipynb file: [Project part2_ipynb](IE423_PROJECT_PART2_Bengisu_Mustafa_Fethi.ipynb)
